@@ -10,5 +10,5 @@ node.js, mySQL server
 1. In terminal, enter `node bamazonCustmer.js`
 1. Follow the prompts -- This data is being pulled from the MySQL database 
 ## Screenshots
-![Imgur](https://i.imgur.com/kGhigsC.png)
-
+![CLI](https://i.imgur.com/kGhigsC.png)
+![MySQL product table](https://i.imgur.com/b5WjSOk.png)
